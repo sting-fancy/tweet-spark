@@ -1,0 +1,2 @@
+# see includes here https://github.com/jupyter/docker-stacks/blob/main/pyspark-notebook/Dockerfile
+tweepy==4.10
